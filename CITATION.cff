@@ -1,0 +1,31 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use these repository materials, please cite them using this metadata and record
+  the commit or release used. This metadata does not assert publication or replace citations
+  to individual works.
+title: Replication and Extension of Thompson et al. (2020)
+authors:
+- name: vbm-replication-extension project
+  website: https://github.com/andybhall/vbm-replication-extension
+repository-code: https://github.com/edithatogo/vbm-replication-extension
+url: https://github.com/edithatogo/vbm-replication-extension
+preferred-citation:
+  type: article
+  title: Universal vote-by-mail has no impact on partisan turnout or vote share
+  authors:
+  - family-names: Thompson
+    given-names: Daniel M
+  - family-names: Wu
+    given-names: Jennifer A
+  - family-names: Yoder
+    given-names: Jesse
+  - family-names: Hall
+    given-names: Andrew B
+  journal: Proceedings of the National Academy of Sciences
+  volume: 117
+  issue: 25
+  start: 14052
+  end: 14056
+  year: 2020
+abstract: This repository is a fork of andybhall/vbm-replication-extension. The upstream project
+  retains its authorship and attribution. Cite the exact repository revision used.
